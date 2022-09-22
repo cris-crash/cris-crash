@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cris-crash
-- 👀 I’m interested in useless thongs 
-- 🌱 I’m currently learning the amazing markdownl language
-- 💞️ I’m looking to collaborate on loony bin
+- 👀 I’m interested in useless things 
+- 🌱 I’m currently learning the amazing markdown language
+- 💞️ I’m looking to collaborate on a loony bin
 - 📫 How to reach me with a carrier pigeon
 
 <!---
